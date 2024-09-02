@@ -21,7 +21,7 @@ Cada pasta neste repositório corresponde a um desafio ou projeto proposto ao lo
 - `/desafio-4`: 
 - `/desafio-5`:
 
-  ## Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 Durante o curso, foram abordadas as seguintes tecnologias e serviços:
 
