@@ -18,7 +18,7 @@ Cada pasta neste repositório corresponde a um desafio ou projeto proposto ao lo
 - `/desafio-1`: Localizando serviços por categoria
 - `/desafio-2`: Criando máquinas virtuais
 - `/desafio-3`: Configurando uma instância de banco de dados
-- `/desafio-4`: 
+- `/desafio-4`: Construindo Arquiteturas na Azure
 - `/desafio-5`:
 
 ## Tecnologias Utilizadas
