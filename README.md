@@ -20,6 +20,7 @@ Cada pasta neste repositório corresponde a um desafio ou projeto proposto ao lo
 - `/desafio-3`: Configurando uma instância de banco de dados
 - `/desafio-4`: Construindo Arquiteturas na Azure
 - `/desafio-5`: Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure
+- `/desafio-6`: Dominando o armazenamento na Azure
 
 ## Tecnologias Utilizadas
 
