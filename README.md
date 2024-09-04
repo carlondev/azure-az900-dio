@@ -15,12 +15,12 @@ O curso busca explorar os fundamentos do Azure, como:
 
 Cada pasta neste repositório corresponde a um desafio ou projeto proposto ao longo do curso. Aqui está uma breve descrição do que você pode encontrar:
 
-- `/desafio-1`: Localizando serviços por categoria
-- `/desafio-2`: Criando máquinas virtuais
-- `/desafio-3`: Configurando uma instância de banco de dados
-- `/desafio-4`: Construindo Arquiteturas na Azure
-- `/desafio-5`: Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure
-- `/desafio-6`: Dominando o armazenamento na Azure
+- **Localizando serviços por categoria:** [desafio-1](https://github.com/carlondev/azure-az900-dio/blob/main/desafio-1.pdf)
+- **Criando máquinas virtuais:** [desafio-2](https://github.com/carlondev/azure-az900-dio/blob/main/desafio-1.pdf)
+- **Configurando uma instância de banco de dados:** [desafio-3](https://github.com/carlondev/azure-az900-dio/blob/main/desafio-1.pdf)
+- **Construindo Arquiteturas na Azure:** [desafio-4](https://github.com/carlondev/azure-az900-dio/blob/main/desafio-4.md)
+- **Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure:** [desafio-5](https://github.com/carlondev/azure-az900-dio/blob/main/desafio-5.md)
+- **Dominando o armazenamento na Azure:** [desafio-6](https://github.com/carlondev/azure-az900-dio/blob/main/desafio-6.md)
 
 ## Tecnologias Utilizadas
 
