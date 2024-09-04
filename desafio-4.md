@@ -1,5 +1,5 @@
 ## Criação de um Grupo de Recurso no ambiente Azure.
-- Definição de reigão US-East 2.
+- Definição de região US-East 2.
 - Conhecer as funções disponibilizadas como monitoramento, IAM, Eventos, gerenciamento de custos.
 ## Criação de uma Rede Virtual no grupo de recursos.
 - Definição de região South America (Brazil).
