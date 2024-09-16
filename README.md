@@ -21,6 +21,7 @@ Cada pasta neste repositório corresponde a um desafio ou projeto proposto ao lo
 - **Construindo Arquiteturas na Azure:** [desafio-4](https://github.com/carlondev/azure-az900-dio/blob/main/desafio-4.md)
 - **Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure:** [desafio-5](https://github.com/carlondev/azure-az900-dio/blob/main/desafio-5.md)
 - **Dominando o armazenamento na Azure:** [desafio-6](https://github.com/carlondev/azure-az900-dio/blob/main/desafio-6.md)
+- **Entendendo sobre Segurança e Identidade na Azure:** [desafio-7](https://github.com/carlondev/azure-az900-dio/blob/main/desafio-7.md)
 
 ## Tecnologias Utilizadas
 
